@@ -10,7 +10,7 @@ var doucheFactor = 1;
 
 var caseSensitivity = 1;
 
-var sourceUrl = 'https://cdn.rawgit.com/selfagency/nazi-detector/master/theList.json';
+var sourceUrl = 'https://rawgit.com/selfagency/nazi-detector/master/theList.json';
 
 var loaded = false;
 
