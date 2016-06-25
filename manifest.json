@@ -20,7 +20,7 @@
       "matches": [ "*://*/*" ],
       "run_at": "document_end"
    } ],
-   "description": "Detects alt-right Nazi a-holes",
+   "description": "Detects alt-right Nazis and other bigoted a-holes.",
    "name": "Nazi Detector",
    "update_url": "https://clients2.google.com/service/update2/crx",
    "version": "18.613.4"
