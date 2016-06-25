@@ -50,6 +50,7 @@ chrome.runtime.sendMessage(null, {op:"load"}, null, function(state) {
     v = v.replace(regexp, function(j){ count++; return echo(j, doucheFactor) });
     v = v.replace(/\bTrump\b/g, echo("Trumpler", doucheFactor));
     v = v.replace(/\bMilo Yiannopoulos\b/g, echo("Human Trashfire", doucheFactor));
+    v = v.replace(/\bcuck\b/g, echo("less-racist conservative", doucheFactor));
     textNode.nodeValue = v;
   }
 
