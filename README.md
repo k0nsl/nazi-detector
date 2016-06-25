@@ -5,3 +5,5 @@ This Chrome extension derives from the original code of the (((Coincidence Detec
 You can install this extension from [the Google Chrome Store](https://chrome.google.com/webstore/detail/nazi-detector/gepjahbfpbjebbdlpmagodedkiodklip).
 
 To check if you were targeted by the (((Coincidence Detector))), see my other project, [The Grand Coincidence](http://progressivejews.org/echoes/).
+
+If you'd like to contribute names to the index of white supremacists, please fork and send a pull request, or contact me on Twitter at [@selfagency](https://twitter.com/selfagency).
